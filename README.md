@@ -8,7 +8,6 @@ This project is a powerful **Data Transformation and Cleaning Automation Tool** 
 - **Data Transformation and Cleaning**: Normalizes columns, removes duplicates, fills missing values, and applies conditional formatting to highlight values below a specified threshold.
 - **Report Generation**:
   - **Pie Chart**: Visualizes the distribution of a specified categorical column (e.g., `category`).
-  - **Line Chart**: Plots `purchase_amount` over `signup_date` to observe trends over time.
 - **Excel Formatting**: Provides readable, professional data presentations through conditional formatting and embedded charts in Excel.
 
 ## Project Structure
